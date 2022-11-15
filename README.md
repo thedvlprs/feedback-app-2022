@@ -4,9 +4,9 @@
 
 #### [Demo](https://beamish-phoenix-682975.netlify.app/)
 
-![demo](/Users/sophie/Dropbox/Screenshots/demo.png)
+![demo](./demo.png)
 
-### This project goes over all of the fundamentals of React including...
+### This project goes over all of the fundamentals of React including
 
 - Components
 - JSX
@@ -18,4 +18,3 @@
 - Forms
 - Context API
 - HTTP Requests
-
